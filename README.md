@@ -1,2 +1,2 @@
 # ethereum-lottery
-A community driven lottery, using user input as a vital metric to random number generation. Powered by Ethereum, written in Solidity
+An Ethereum based lottery smart-contract, using user input as a vital metric for random number generation.
